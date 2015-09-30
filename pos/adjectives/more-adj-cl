@@ -1,0 +1,12 @@
+module.exports.adjectives = [
+	'green',
+	'red',
+	'blue',
+	'purple',
+	'sleepy',
+	'happy',
+	'grumpy',
+	'dopey',
+	'bashful',
+	'sneezy',
+];
